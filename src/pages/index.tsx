@@ -1,3 +1,5 @@
+import Page from './components/template/Page'
+
 export default function Home() {
-  return <div>CoinControl</div>
+  return <Page>CoinControl</Page>
 }
